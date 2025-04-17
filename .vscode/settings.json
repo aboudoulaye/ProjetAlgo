@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.sqlbook": "sql",
+        "*.ndjson": "jsonl",
+        "*.dbclient-js": "javascript",
+        "algorithms.h": "c",
+        "approche_genetic.h": "c",
+        "approche_dynamique.h": "c",
+        "graph.h": "c"
+    }
+}
